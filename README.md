@@ -180,11 +180,18 @@ External websites, URLs, features, availability, and policies may change without
 
 The diagnostic results provided by third-party tools should be interpreted according to the documentation of the respective tool.
 
-## 📜 License
+## License
 
-This project is provided for personal, educational, and technical use.
+**Computer Security Latest Proprietary License**
+**Copyright © 2026 Computer Security Latest. All Rights Reserved.**
 
-If you add an open-source license to the repository, replace this section with the terms of your selected license.
+This project is proprietary software and is not open source.
+
+Use, copying, modification, redistribution, publication, sublicensing,
+commercial use, and creation of derivative works are prohibited unless
+explicitly authorized in writing by the copyright holder.
+
+See the `LICENSE` file for the complete license terms.
 
 ## 👨‍💻 Author
 
