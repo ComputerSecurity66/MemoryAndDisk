@@ -183,7 +183,7 @@ The diagnostic results provided by third-party tools should be interpreted accor
 ## License
 
 **Computer Security Latest Proprietary License**
-**Copyright © 2026 Computer Security Latest. All Rights Reserved.**
+**Copyright © 2026 VALOR. All Rights Reserved.**
 
 This project is proprietary software and is not open source.
 
