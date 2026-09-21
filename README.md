@@ -142,9 +142,9 @@ This project is built with:
 ## 📁 Project Structure
 
 ```text
-Memory-And-Hard-Disk-Test/
+Memory-And--Disk/
 │
-├── MemoryAndHardDiskTest.bat
+├── MemoryAndDisk.bat
 ├── README.md
 └── LICENSE
 ```
